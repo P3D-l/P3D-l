@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @P3D-l
 - 👀 I’m interested in computer stuff
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning PHP
 - 📫 How to reach me : plucasn@yahoo.com
 
 <!---
